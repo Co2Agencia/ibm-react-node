@@ -1,0 +1,6 @@
+{
+    "name":"pepe_module",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "test.js"
+}
